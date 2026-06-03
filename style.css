@@ -6,10 +6,10 @@
 
 /* Reset e Variáveis */
 :root {
-    --primary-green: #ADFF2F;
-    --primary-cyan: #00D9FF;
+    --primary-green: #000000;
+    --primary-cyan: #191970;
     --primary-black: #0A0E27;
-    --primary-gold: #FFD700;
+    --primary-gold: #87CEEB;
     --secondary-gray: #1a1f3a;
     --text-light: #ffffff;
     --text-dark: #0A0E27;
