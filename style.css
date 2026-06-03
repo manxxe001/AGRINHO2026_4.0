@@ -10,9 +10,9 @@
     --primary-cyan: #8B0000;
     --primary-black: #0A0E27;
     --primary-gold: #87CEEB;
-    --secondary-gray: #FA8072;
+    --secondary-gray:#000000;
     --text-light: #ffffff;
-    --text-dark: #0A0E27;
+    --text-dark: #FA8072;
     --border-radius: 12px;
     --transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 }
